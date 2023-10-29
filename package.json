@@ -1,0 +1,14 @@
+{
+  "name": "magic-8",
+  "version": "1.0.0",
+  "description": "Magic 8 Ball",
+  "main": "Magic8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hayley Pausch",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
